@@ -1,0 +1,12 @@
+# Carpetas generadas por compilación
+bin/
+obj/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos de Visual Studio
+.vs/
